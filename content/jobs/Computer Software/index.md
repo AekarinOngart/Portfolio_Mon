@@ -1,7 +1,7 @@
 ---
 date: '2019-01-01'
 title: 'Computer Software'
-company: 'LBTECH 2'
+company: 'LBTECH 1'
 location: 'Lopburi, TH'
 range: '2019 - 2021'
 url: 'https://www.lbtech.ac.th/'

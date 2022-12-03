@@ -1,7 +1,7 @@
 ---
 date: '2019-01-01'
 title: 'Business Computer'
-company: 'LBTECH 1'
+company: 'LBTECH 2'
 location: 'Lopburi, TH'
 range: '2017 - 2019'
 url: 'https://www.lbtech.ac.th/'

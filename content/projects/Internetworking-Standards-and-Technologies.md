@@ -3,6 +3,9 @@ date: '2022-12-08'
 title: 'Internetworking Standards and Technologies'
 github: 'https://github.com/AekarinOngart/Internetworking-Standards-and-Technologies'
 external: 'https://github.com/AekarinOngart/Internetworking-Standards-and-Technologies'
+tech:
+  - Cisco
+  - Packet-tracer
 company: 'KMITL'
 showInProjects: true
 ---
