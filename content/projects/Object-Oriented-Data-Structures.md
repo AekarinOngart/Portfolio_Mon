@@ -10,4 +10,4 @@ showInProjects: true
 ---
 
 Algorithm design; Searching; Selecting;
-Sorting; Graph Theory; Number Theory; Encryption; Greedy method;
+Sorting; Graph Theory; Number Theory; Encryption; Greedy method.

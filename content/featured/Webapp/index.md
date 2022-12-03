@@ -13,4 +13,4 @@ tech:
   - ASP.NET
 ---
 
-Open source can be developed further Not subject to copyright in various designs, the system will be like Grab Food, Line Man, Food Panda, Uber with food delivery. By using this application or website as an intermediary, the website uses Blackkend as [ASP.NET Core MVC](https://dotnet.microsoft.com/download/dotnet/6.0) and Frontend as [HTML, CSS, JavaScript, Ajax, REST API.](https://www.w3schools.com/)
+Open source can be developed further Not subject to copyright in various designs, the system will be like Grab Food, Line Man, Food Panda, Uber with food delivery. By using this application or website as an intermediary.

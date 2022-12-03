@@ -12,4 +12,4 @@ showInProjects: true
 
 A study of network architecture, industry standards and communications
 protocols, logical and physical topologies for networks Including routing and switching concepts; Virtual LAN; Spanning tree;
-inter-VLAN routing; gateway redundancy technologies;
+inter-VLAN routing; gateway redundancy technologies.

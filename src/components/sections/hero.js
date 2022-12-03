@@ -60,16 +60,18 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Aekarin Ongart.</h2>;
-  const three = <h3 className="big-heading">I build programs and web.</h3>;
+  const three = <h3 className="big-heading">I build programs and website.</h3>;
   const four = (
     <>
       <p>
-        I'm a student at King Mongkut's Institute of Technology Ladkrabang Faculty of Engineering {' '} 
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
+        I'm a student at King Mongkut's Institute of Technology Ladkrabang Faculty of Engineering{' '}
+        <a href="https://www.kmitl.ac.th/" target="_blank" rel="noreferrer">
           KMITL
-        </a>
-        {' '}
-        | Major: Computer Engineering.
+        </a>{' '}
+        | Major:{' '}
+        <a href="https://www.ce.kmitl.ac.th/" target="_blank" rel="noreferrer">
+          Computer Engineering.
+        </a>{' '}
       </p>
       I will use the knowledge I have learned for the greatest benefit to the public.
     </>

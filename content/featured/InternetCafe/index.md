@@ -11,4 +11,4 @@ tech:
   - Light mode
 ---
 
-InternetCafe shop program used to count the time of the machine that actually works Can be used temporarily (Offline) or can be used to continue studying Coded with OOP structure, developed GUI with CustomTkiner, which allows design to be more beautiful than the original Tkinter.
+InternetCafe shop program used to count the time of the machine that actually works Can be used temporarily (Offline) or can be used to continue studying Coded with OOP structure, developed GUI with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter), which allows design to be more beautiful than the original [Tkinter](https://docs.python.org/3/library/tkinter.html).

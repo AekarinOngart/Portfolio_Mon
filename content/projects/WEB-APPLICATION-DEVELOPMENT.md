@@ -14,4 +14,4 @@ showInProjects: true
 
 It focuses on building web applications. Including web basics, HTML, cascading style
 sheets (CSS); model-view-controller design, web framework, data and object modelling,
-design concepts, java script, DOM, event & Ajax
+design concepts, java script, DOM, event & Ajax.

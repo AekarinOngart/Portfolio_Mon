@@ -11,4 +11,4 @@ showInProjects: true
 ---
 
 Assembly Programming and Instruction Set Architecture;
-High-level Software to Low-level Instructions; Memory Hierachy; Data Transfer and Input/Output (I/O)
+High-level Software to Low-level Instructions; Memory Hierachy; Data Transfer and Input/Output (I/O).

@@ -125,7 +125,20 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C#', 'Python', 'JavaScript', 'HTML', 'CSS', 'PHP', 'MySQL', 'React', 'ASP.NET', 'REST API', 'AJAX', 'Bootstrap'];
+  const skills = [
+    'C#',
+    'Python',
+    'JavaScript',
+    'HTML',
+    'CSS',
+    'PHP',
+    'MySQL',
+    'React',
+    'ASP.NET',
+    'REST API',
+    'AJAX',
+    'Bootstrap',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,20 +148,27 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Aekarin and I enjoy creating things that live on the internet.
-              My interest in developing programs and websites started in 2017 when
-              I decided to try editing various game files for personal gain (cheating).
-              It was what sparked me to decide to study about this line of work.
+              Hello! My name is Aekarin and I enjoy creating things that live on the internet. My
+              interest in developing programs and websites started in 2017 when I decided to try
+              editing various game files for personal gain (cheating). It was what sparked me to
+              decide to study about this line of work.
             </p>
 
             <p>
-              If you want to know more about my starting point Please visit this {' '}
-              <a href="https://www.youtube.com/@HackBaoBao" target="_blank" rel="noreferrer" >Youtube</a> {' '}channel.
-              and please know that I am no longer doing this. I leave it to the past to learn things. in computer language only
+              If you want to know more about my starting point Please visit this{' '}
+              <a href="https://www.youtube.com/@HackBaoBao" target="_blank" rel="noreferrer">
+                Youtube
+              </a>{' '}
+              channel. and please know that I am no longer doing this. I leave it to the past to
+              learn things. in computer language only.
             </p>
 
             <p>
-              in the near future I'm going to develop programs and websites for free on Github.
+              in the near future I'm going to develop programs and websites for free on{' '}
+              <a href="https://github.com/AekarinOngart" target="_blank" rel="noreferrer">
+                GitHub
+              </a>
+              .
             </p>
 
             <p>Something I've always been interested in and learning about.</p>

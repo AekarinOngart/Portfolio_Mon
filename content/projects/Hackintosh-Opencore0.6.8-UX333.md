@@ -11,6 +11,6 @@ company: ''
 showInProjects: true
 ---
 
-EFI Opencore 0.6.8 for Asus Zenbook UX333 UX433 and UX533
+EFI Opencore 0.6.8 for Asus Zenbook UX333 UX433 and UX533.
 
-macOS Compatible: Catalina and Big Sur
+macOS Compatible: Catalina and Big Sur.
