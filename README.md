@@ -37,5 +37,4 @@
    ```sh
    npm run serve
    ```
-   
-[![Netlify Status](https://api.netlify.com/api/v1/badges/308e9384-0f4c-403e-b3ee-46f5c03d2fb2/deploy-status)](https://app.netlify.com/sites/aekarinongart/deploys)
+  
